@@ -1,0 +1,7 @@
+{
+  "name": "sekolah-fiqih",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
